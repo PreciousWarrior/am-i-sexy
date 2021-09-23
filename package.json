@@ -1,0 +1,22 @@
+{
+  "name": "@samuelmarina/am-i-sexy",
+  "version": "1.0.0",
+  "description": "is this person sexy?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelmarina/am-i-sexy.git"
+  },
+  "keywords": [
+    "sexy"
+  ],
+  "author": "Samuel Miller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samuelmarina/am-i-sexy/issues"
+  },
+  "homepage": "https://github.com/samuelmarina/am-i-sexy#readme"
+}
